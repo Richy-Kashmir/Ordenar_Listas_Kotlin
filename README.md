@@ -2,9 +2,6 @@
 
 # 🔢 UD01 · Ordenación de Listas en Kotlin
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![JDK](https://img.shields.io/badge/JDK-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Programación Multimedia y Dispositivos Móviles** · ILERNA
 
